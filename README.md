@@ -1,0 +1,2 @@
+# nostrarabia
+A nostr community
