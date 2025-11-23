@@ -1,0 +1,7 @@
+{
+  "names": {
+    "admin": "your-pubkey-here",
+    "alice": "alice-pubkey-here",
+    "bob": "bob-pubkey-here"
+  }
+}
